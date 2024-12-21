@@ -6,7 +6,7 @@ Before diving into the setup instructions, make sure you have the correct tools 
  * SSH access to a VPS (or some other form of dedicated hosting)
  * The ability to open ports on said machine
 
-You can find cheap VPS hosts at [Ionos](https://www.ionos.com/), [A2 Hosting](https://www.a2hosting.com), or [Vultr](https://www.vultr.com/).
+You can find cheap VPS hosts at [Ionos](https://www.ionos.com/), [A2 Hosting](https://www.a2hosting.com), or [Vultr](https://www.vultr.com/).test
 
 **NOTE:** I am not endorsing or recommending any of the following hosts, they are just a few I have found people to use.
 
