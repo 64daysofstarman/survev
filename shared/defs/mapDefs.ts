@@ -15,6 +15,7 @@ import { Woods } from "./maps/woodsDefs";
 import { WoodsSnow } from "./maps/woodsSnowDefs";
 import { WoodsSpring } from "./maps/woodsSpringDefs";
 import { WoodsSummer } from "./maps/woodsSummerDefs";
+import { Inferno } from "./maps/ImfernoDefs";
 
 export const MapDefs = {
     main: Main,
