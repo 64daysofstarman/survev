@@ -25,15 +25,16 @@ export const Main: MapDef = {
     },
     biome: {
         colors: {
-            background: 2118510,
-            water: 3310251,
+             background: 2118510,
+            water: 15957573,
             waterRipple: 11792639,
-            beach: 13480795,
-            riverbank: 9461284,
-            grass: 8433481,
+            beach: 4283361,
+            riverbank: 1250580, // Updated riverbank color to rgb(19, 21, 19)
+            grass: 2825794,
             underground: 1772803,
-            playerSubmerge: 2854052,
-            playerGhillie: 8630096,
+            playerSubmerge: 16187132,
+            playerGhillie: 2825794,
+            },
         },
         valueAdjust: 1,
         sound: { riverShore: "sand" },
