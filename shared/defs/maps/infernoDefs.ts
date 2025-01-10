@@ -468,7 +468,17 @@ export const Main: MapDef = {
             shoreInset: 48,
             grassInset: 18,
             rivers: {
-                lakes: [],
+                lakes: [
+                    {
+                        odds: 1,
+                        innerRad: 38,
+                        outerRad: 94,
+                        spawnBound{
+                            pos: v2.create(0.5, 0.5),
+                            rad: 100,
+                        },
+                    },
+                ],
                 weights: [
                     { weight: 0.1, widths: [4] },
                     { weight: 0.15, widths: [8] },
