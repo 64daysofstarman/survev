@@ -11,7 +11,7 @@ import type { MapDef } from "../mapDefs";
 // elements if that property is set.
 
 export const Main: MapDef = {
-    mapId: 0,
+    mapId: 8,
     desc: { name: "Normal", icon: "", buttonCss: "" },
     assets: {
         audio: [
