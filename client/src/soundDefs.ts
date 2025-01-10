@@ -1511,13 +1511,13 @@ const Sounds: Record<string, Record<string, SoundDef>> = {
             volume: 1,
             loadPriority: 1,
         },
-        ambient_waves_01: {
-            path: "audio/ambient/ambient_waves_01.mp3",
+        ambient_lava_01: {
+            path: "audio/ambient/ambient_lava_01.mp3",
             volume: 1,
             loadPriority: 1,
         },
-        ambient_stream_01: {
-            path: "audio/ambient/ambient_stream_01.mp3",
+        ambient_lava_01: {
+            path: "audio/ambient/ambient_lava_01.mp3",
             volume: 1,
             loadPriority: 1,
         },
