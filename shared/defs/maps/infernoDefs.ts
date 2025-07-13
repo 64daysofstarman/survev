@@ -12,7 +12,7 @@ import type { MapDef } from "../mapDefs";
 
 export const Main: MapDef = {
     mapId: 8,
-    desc: { name: "Normal", icon: "", buttonCss: "" },
+    desc: { name: "Inferno", icon: "", buttonCss: "" },
     assets: {
         audio: [
             { name: "club_music_01", channel: "ambient" },
