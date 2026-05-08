@@ -365,6 +365,7 @@ export const Main: MapDef = {
             { name: "m4a1", count: 1, weight: 4 },
             { name: "scorpion", count: 1, weight: 5 }, // ?
             { name: "ots38_dual", count: 1, weight: 4.5 },
+            { name: "usas", count: 1, weight: 2.5 },
         ],
         tier_airdrop_mythic: [
             { name: "scarssr", count: 1, weight: 1 }, // ?
